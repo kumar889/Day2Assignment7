@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+}
+.gray-box{
+    background-color:lightgray;
+    width:45%;
+    height:360px ;
+    border-radius: 15px;
+    margin-top:135px;
+    margin-left:355px;
+}
+.green-box{
+    background-color:greenyellow;
+    width:400px;
+    height:65px;
+    margin-left:110px;
+}
+.skn-box{
+    background-color:burlywood;
+    width: 400px;
+    height:230px;
+    margin-left:110px;
+}
+.brown-box{
+    background-color:brown;
+    width:400px;
+    height:65px;
+    margin-left:110px;
+}
